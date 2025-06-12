@@ -35,3 +35,8 @@ em alguns momentos, a URL muda, indicando que a pesquisa foi feita, mas a **visu
 
 - O bug parece estar relacionado ao cache de componentes ou ao roteamento de páginas via JavaScript.
 - Testado no navegador: Opera GX
+
+
+### 📂 Evidência
+
+[Veja o video aqui](/testes-manuais/teste-yahooFinance/evidencia/Bug%20Yahoo%20Finance.mp4)
