@@ -31,7 +31,7 @@ em alguns momentos, a URL muda, indicando que a pesquisa foi feita, mas a **visu
 
 ---
 
-### 🧠 Observações técnicas (opcional)
+### 🧠 Observações técnicas
 
 - O bug parece estar relacionado ao cache de componentes ou ao roteamento de páginas via JavaScript.
 - Testado no navegador: Opera GX
